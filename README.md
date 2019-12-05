@@ -44,6 +44,34 @@ We provide the user to query the Gaia Tycho data stored in Dynamic Data Cubes vi
 ![scr3](https://github.com/dumbape/Dynamic-Data-Cubes/blob/master/Q1.png?raw=true)
 ![scr4](https://github.com/dumbape/Dynamic-Data-Cubes/blob/master/Q2.png?raw=true)
 
+# Entire dataset
+
+![scr1](https://github.com/OG1998/Dynamic-Data-Cubes/blob/master/visual7_dataset.png?raw=true)
+
+# types of cubes
+![scr1](https://github.com/OG1998/Dynamic-Data-Cubes/blob/master/visual8_types_of_cubes.png?raw=true)
+
+# plotting all type1 cubes
+![scr1](https://github.com/OG1998/Dynamic-Data-Cubes/blob/master/visual5_type1.png?raw=true)
+
+# plotting all type2 cubes
+![scr1](https://github.com/OG1998/Dynamic-Data-Cubes/blob/master/visual4_type2.png?raw=true)
+
+# plotting all type3 cubes
+![scr1](https://github.com/OG1998/Dynamic-Data-Cubes/blob/master/visual3_type3.png?raw=true)
+
+# all types of cubes
+![scr1](https://github.com/OG1998/Dynamic-Data-Cubes/blob/master/visual6.png?raw=true)
+
+# spiral arm
+![scr1](https://github.com/OG1998/Dynamic-Data-Cubes/blob/master/visual2_spiral.png?raw=true)
+
+# a different view
+![scr1](https://github.com/OG1998/Dynamic-Data-Cubes/blob/master/visual1.png?raw=true)
+
+
+
+
 # Install
 
 * git clone https://github.com/dumbape/Dynamic-Data-Cubes.git
